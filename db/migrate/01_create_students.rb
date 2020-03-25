@@ -1,5 +1,5 @@
-class CreateStudents < ActiveRecord::Migration[5.2]
-  # def change
-  #   create_table :
-  # end
+class CreateStudents < ActiveRecord::Migration[5.1]
+  def change
+    create_table :
+  end
 end
